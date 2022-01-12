@@ -1,0 +1,7 @@
+data/pobmun20.xlsx    
+data/renta_por_municipio.csv
+data/municipios/*
+data/renta_media.csv
+__pycache__/
+.idea/*
+geckodriver.log
